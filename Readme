@@ -1,0 +1,9 @@
+Download the Repo
+install the dependencies in both the client & server files
+fill the environmental variables in server files .env file with your appropriate details
+run the client & server
+
+process for Admin===>>>
+Register on the register page ,when the entry is saved in the database,edit that entry manually & update the "role:0" from "0" to "role":"1", this step will give you the powers of the ADMIN,now go to the dashboard in React app ,& you'll see everything
+
+ENJOY!!!!!!!!!!!!
